@@ -1,0 +1,14 @@
+.frutas{
+    background-image: url(frutas_aula02.jpg);
+}
+.carros{
+    background-image: url(carros_css_aula02.jpg);
+}
+
+.listas{
+    height: 600px;
+    width: 600px;
+    color: rgb(125, 110, 255);
+    font-size: 120px;
+    
+}
