@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Arima:wght@100..700&display=swap');
+
+/* Para usar uma fonte da internet podemos ud=sar o @import do site especificado. No exemplo abaixo utilizamos o site Google Fonts para importar a utilizar uma nova font-family*/
+
+h2{
+    font-family: initial;
+    font-size: 50px;
+    letter-spacing: 10px;
+    text-align: center;
+    text-shadow: 10px 11px 5px pink                      ; 
+    /* text-shadow:
+    1º valor: deslocamento horizontal
+    2º valor: deslocamento vertical
+    3º valor: desfoque
+    4º valor: cor da sombra*/
+}
+p{
+    font-family: "Arima", system-ui;
+    text-align: center;
+}
